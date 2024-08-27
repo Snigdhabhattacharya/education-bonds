@@ -2,6 +2,9 @@
 
 ## Vision
 
+![Screenshot 2024-08-27 173139](https://github.com/user-attachments/assets/37de4605-96b1-4a67-917d-3c87576c6a36)
+
+
 The Educational Bonds Smart Contract facilitates the issuance and repayment of bonds specifically for educational institutions. By leveraging blockchain technology, it ensures transparency, security, and efficiency in managing financial obligations between educational institutions and bondholders. The contract is designed to enable educational institutions to issue bonds for funding, which are then repaid with interest upon maturity.
 
 ## Flowchart
